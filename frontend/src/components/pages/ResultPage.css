@@ -1,0 +1,23 @@
+
+
+.gradient-col {
+  
+  
+ 
+  animation: gradient 30s ease infinite;
+}
+
+.main-container {
+  width: 100%;
+  height: 100vh;
+}
+
+.top-container {
+  position: relative;
+  background-color: transparent;
+
+  display: flex !important;
+  flex-direction: row;
+  align-items: center !important;
+  justify-content: center !important;
+}
