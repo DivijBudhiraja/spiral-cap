@@ -54,3 +54,4 @@ We want to improve our model accuracy and achieve the best result we can. Maybe 
 
 Distributed Computer Platform, Google Cloud Platform, Firebase, Python, Tensowflow, React
 "# spiral-cap" 
+# spiral-cap
